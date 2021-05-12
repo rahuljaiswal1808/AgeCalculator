@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatsMyAge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="what_s_my_age">What\'s My Age?</string>
+    <string name="your_b_day">Your B\'Day</string>
+    <string name="default_age">45 Years 2 Months and 3 Days</string>
+    <string name="calculate_other">Calculate Other</string>
+</resources>
